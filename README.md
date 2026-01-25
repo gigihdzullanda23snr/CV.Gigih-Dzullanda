@@ -77,8 +77,9 @@
      alt="Foto Gigih Dzullanda" 
      onerror="this.onerror=null;this.src='https://via.placeholder.com/150'"><div style="text-align:left;color:white;">
           <h1 style="margin:0">Gigih Dzullanda</h1>
-          <p style="margin:6px 0 0;font-weight:600">Gigih(Koordinator Lapangan) </p>
-          <p class="meta" style="margin:6px 0 0">Sumbawa Besar • Berdomisili Mataram • >5 tahun pengalaman</p>
+          <p style="margin:6px 0 0;font-weight:600"> Gigih(Koordinator Lapangan) </p>
+          <p class="meta" style="margin:6px 0 0"> Disiplin dalam proses, tegas dalam kepemimpinan, dan bertanggung jawab terhadap hasil </p>
+       <p class="meta"><small> Mataram, NTB, Indonesia.</small>
        <p 
         </div>
       </div>
