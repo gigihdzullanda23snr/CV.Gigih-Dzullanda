@@ -77,7 +77,7 @@
      alt="Foto Gigih Dzullanda" 
      onerror="this.onerror=null;this.src='https://via.placeholder.com/150'"><div style="text-align:left;color:white;">
           <h1 style="margin:0">Gigih Dzullanda</h1>
-          <p style="margin:6px 0 0;font-weight:600">Gigih <class (Koordinator Lapangan) </p>
+          <p style="margin:6px 0 0;font-weight:600">Gigih (Koordinator Lapangan) </p>
           <p class="meta" style="margin:6px 0 0">Disiplin dalam proses, tegas dalam kepemimpinan, dan bertanggung jawab terhadap hasil </p>
        
             
@@ -93,9 +93,9 @@
       <section>
         <article class="card" aria-labelledby="tentang">
           <h2 id="tentang">Tentang Saya</h2>
-          <p class="lead">Saya Gigih Dzullanda, Saya adalah profesional lapangan dengan pengalaman di bidang Driver, Field Collection, Area Supervisor , Admin Staff , Team Leader dan Koordinator Lapangan,  Terbiasa bekerja dengan target, berinteraksi langsung dengan klien, melakukan negosiasi, serta menyusun laporan kerja secara terstruktur dan akurat.</p>
-<p class="lead">Memiliki pengalaman Sebagai Driver Direksi, menangani debitur bermasalah pada perusahaan pembiayaan, berperan sebagai Admin Kontraktor dengan tanggung jawab administrasi proyek & pengelolaan data, menjadi Team Leader yang memonitoring kinerja tim serta memastikan pekerjaan lapangan berjalan sesuai SOP dan Target, Serta berperan sebagai Koordinator Lapangan yang mengkoordinasikan operasional tim lapangan agar efektif, efisien, dan tepat waktu (Target).</p>
-<p class="lead">Saya dikenal sebagai pribadi yang disiplin, komunikatif, adaptif, problem solver, dan mampu bekerja secara mandiri maupun tim. Terbuka terhadap peluang kerja di bidang Operational Staff, Field Officer, Team Leader, Supervisor Lapangan, Collection, dan Project Administration, dengan komitmen memberikan kontribusi nyata bagi pertumbuhan perusahaan.</p>
+          <p>Saya Gigih Dzullanda, Saya adalah profesional lapangan dengan pengalaman di bidang Driver, Field Collection, Area Supervisor , Admin Staff , Team Leader dan Koordinator Lapangan,  Terbiasa bekerja dengan target, berinteraksi langsung dengan klien, melakukan negosiasi, serta menyusun laporan kerja secara terstruktur dan akurat.</p>
+          <p>Memiliki pengalaman Sebagai Driver Direksi, menangani debitur bermasalah pada perusahaan pembiayaan, berperan sebagai Admin Kontraktor dengan tanggung jawab administrasi proyek & pengelolaan data, menjadi Team Leader yang memonitoring kinerja tim serta memastikan pekerjaan lapangan berjalan sesuai SOP dan Target, Serta berperan sebagai Koordinator Lapangan yang mengkoordinasikan operasional tim lapangan agar efektif, efisien, dan tepat waktu (Target).</p>
+          <p>Saya dikenal sebagai pribadi yang disiplin, komunikatif, adaptif, problem solver, dan mampu bekerja secara mandiri maupun tim. Terbuka terhadap peluang kerja di bidang Operational Staff, Field Officer, Team Leader, Supervisor Lapangan, Collection, dan Project Administration, dengan komitmen memberikan kontribusi nyata bagi pertumbuhan perusahaan.</p>
           <ul style="margin-top:10px">
             <li class="meta">• Kepemimpinan tim: Coaching & target setting</li>
             <li class="meta">• Operasional sales: monitoring harian & reporting</li>
