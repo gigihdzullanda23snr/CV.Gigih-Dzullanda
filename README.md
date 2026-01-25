@@ -77,8 +77,9 @@
      alt="Foto Gigih Dzullanda" 
      onerror="this.onerror=null;this.src='https://via.placeholder.com/150'"><div style="text-align:left;color:white;">
           <h1 style="margin:0">Gigih Dzullanda</h1>
-          <p style="margin:6px 0 0;font-weight:600">Team Leader</p>
+          <p style="margin:6px 0 0;font-weight:600">Gigih(Koordinator Lapangan) </p>
           <p class="meta" style="margin:6px 0 0">Sumbawa Besar • Berdomisili Mataram • >5 tahun pengalaman</p>
+       <p 
         </div>
       </div>
     </div>
@@ -90,8 +91,8 @@
         <article class="card" aria-labelledby="tentang">
           <h2 id="tentang">Tentang Saya</h2>
           <p class="lead">Saya Gigih Dzullanda, Saya adalah profesional lapangan dengan pengalaman di bidang Driver, Field Collection, Area Supervisor , Admin Staff , Team Leader dan Koordinator Lapangan,  Terbiasa bekerja dengan target, berinteraksi langsung dengan klien, melakukan negosiasi, serta menyusun laporan kerja secara terstruktur dan akurat.</p>
-<p>Memiliki pengalaman Sebagai Driver Direksi, menangani debitur bermasalah pada perusahaan pembiayaan, berperan sebagai Admin Kontraktor dengan tanggung jawab administrasi proyek & pengelolaan data, menjadi Team Leader yang memonitoring kinerja tim serta memastikan pekerjaan lapangan berjalan sesuai SOP dan Target, Serta berperan sebagai Koordinator Lapangan di Healthy Go yang mengkoordinasikan operasional tim lapangan agar efektif, efisien, dan tepat waktu.</p>
-<p>Saya dikenal sebagai pribadi yang disiplin, komunikatif, adaptif, problem solver, dan mampu bekerja secara mandiri maupun tim. Terbuka terhadap peluang kerja di bidang Operational Staff, Field Officer, Team Leader, Supervisor Lapangan, Collection, dan Project Administration, dengan komitmen memberikan kontribusi nyata bagi pertumbuhan perusahaan.</p>
+<p class="lead">Memiliki pengalaman Sebagai Driver Direksi, menangani debitur bermasalah pada perusahaan pembiayaan, berperan sebagai Admin Kontraktor dengan tanggung jawab administrasi proyek & pengelolaan data, menjadi Team Leader yang memonitoring kinerja tim serta memastikan pekerjaan lapangan berjalan sesuai SOP dan Target, Serta berperan sebagai Koordinator Lapangan yang mengkoordinasikan operasional tim lapangan agar efektif, efisien, dan tepat waktu (Target).</p>
+<p class="lead">Saya dikenal sebagai pribadi yang disiplin, komunikatif, adaptif, problem solver, dan mampu bekerja secara mandiri maupun tim. Terbuka terhadap peluang kerja di bidang Operational Staff, Field Officer, Team Leader, Supervisor Lapangan, Collection, dan Project Administration, dengan komitmen memberikan kontribusi nyata bagi pertumbuhan perusahaan.</p>
           <ul style="margin-top:10px">
             <li class="meta">• Kepemimpinan tim: Coaching & target setting</li>
             <li class="meta">• Operasional sales: monitoring harian & reporting</li>
@@ -102,10 +103,11 @@
         <article class="card" aria-labelledby="exp">
           <h2 id="exp">Pengalaman</h2>
           <ul>
-            <li class="item"><strong>Team Leader</strong> — PT. TANGGA AGENCY <div class="meta">(2025 — 2025) • Mengkoordinasi dan membimbing tim sales motoris dalam aktivitas penjualan produk (Orang Tua), memastikan pencapaian target harian dan bulanan, melakukan monitoring distribusi serta ketersediaan produk di Depo, dan menjaga hubungan baik dengan pelanggan serta outlet untuk meningkatkan penjualan.</div></li>
-            <li class="item"><strong>Admin</strong> — PT. PARAMA KRIDA PRATAMA <div class="meta">(2024 — 2025) • Mengatur Jadwal pertemuan, Membuat Data, Mengecek Paket Proyek yang tersedia, Membantu urusan administrasi lainya.</div></li>
-            <li class="item"><strong>Direct Sales / Area Supervisor</strong> — PT. CBN <div class="meta">(2024 — 2024) • Mengawasi operasional penjualan dan pelayanan di area kerja, mengkoordinasi tim marketing dan teknisi, memastikan pencapaian target pelanggan, melakukan monitoring pemasangan, memastikan pembayaran tagihan tepat waktu, serta perawatan jaringan, dan menjaga kepuasan konsumen di wilayah tanggung jawab </div></li>
-            <li class="item"><strong>Spv Collection Field</strong> — PT. NSS <div class="meta">(2022 — 2023)• Mengawasi dan mengkoordinasi tim kolektor dalam penagihan angsuran, memastikan pencapaian target collection, melakukan evaluasi kinerja tim, serta menangani negosiasi dengan konsumen bermasalah untuk menjaga kualitas portofolio kredit perusahaan. </div> </li>
+          <li class="item"><strong>Koordinator Lapangan</strong> — HEALTHY GO <div class="meta">(2025 — 2026)</div> • Mengkoordinasikan operasional harian produksi dan pengantaran, Mengatur jadwl kerja team Courier,Menjadi penghubung antara tim operasional dan manajemen dalam penyampaian informasi dan laporan, Menangani keluhan dan feedback pelanggan untuk peningkatan kualitas layanan, Memantau stok bahan packingan dan melaporkan kebutuhan pembelian kepada manajemen, Menyusun laporan harian terkait jumlah pesanan, pengiriman, dan kendala operasional, Menyusun laporan kegiatan dan evaluasi kinerja tim kepada manajemen.</li>
+            <li class="item"><strong>Team Leader</strong> — PT. TANGGA AGENCY <div class="meta">(2025 — 2025)</div> • Mengkoordinasi dan membimbing tim sales motoris dalam aktivitas penjualan produk (Orang Tua), memastikan pencapaian target harian dan bulanan, melakukan monitoring distribusi serta ketersediaan produk di Depo, dan menjaga hubungan baik dengan pelanggan serta outlet untuk meningkatkan penjualan.</li>
+            <li class="item"><strong>Admin</strong> — PT. PARAMA KRIDA PRATAMA <div class="meta">(2024 — 2025)</div> • Mengatur Jadwal pertemuan, Membuat Data, Mengecek Paket Proyek yang tersedia, Membantu urusan administrasi lainya.</li>
+            <li class="item"><strong>Direct Sales / Area Supervisor</strong> — PT. CBN <div class="meta">(2024 — 2024)</div> • Mengawasi operasional penjualan dan pelayanan di area kerja, mengkoordinasi tim marketing dan teknisi, memastikan pencapaian target pelanggan, melakukan monitoring pemasangan, memastikan pembayaran tagihan tepat waktu, serta perawatan jaringan, dan menjaga kepuasan konsumen di wilayah tanggung jawab </li>
+            <li class="item"><strong>Spv Collection Field</strong> — PT. NSS <div class="meta">(2022 — 2023)</div> • Mengawasi dan mengkoordinasi tim kolektor dalam penagihan angsuran, memastikan pencapaian target collection, melakukan evaluasi kinerja tim, serta menangani negosiasi dengan konsumen bermasalah untuk menjaga kualitas portofolio kredit perusahaan.</li>
             <li class="item"><strong>MCE / CRF</strong> — PT. FIF <div class="meta">(2020 — 2022)</div>• Memasarkan produk pembiayaan, mencari konsumen baru, menjalin kerja sama dengan dealer, serta mencapai target penjualan bulanan. Terbiasa melakukan canvassing, mengelola data konsumen, dan memberikan pelayanan terbaik demi kepuasan pelanggan. </li>
           </ul>
         </article>
@@ -123,28 +125,30 @@
         <div class="card contact" aria-labelledby="kontak">
           <h2 id="kontak">Kontak & Sosial</h2>
           <p class="meta">Email: <a href="mailto:gigihdzullanda23@gmail.com">gigihdzullanda23@gmail.com</a></p>
-          <p class="meta">Telepone: <a href="tel:+62881037636023">+62 881-0376-36023</a></p>
+          <p class="meta">Contact : <a href="tel:+62881037636023">+62 881-0376-36023</a></p>
           <div class="sosmed" style="margin-top:8px">
             <a href="https://wa.me/62881037636023" target="_blank" rel="noopener noreferrer">WhatsApp</a>
             <a href="https://www.instagram.com/g.dzullanda_?igsh=NXljemxqM251ZDds" target="_blank" rel="noopener noreferrer">Instagram</a>
             <a href="https://www.tiktok.com/@gigihdzullanda?_t=ZS-8zTS8tDIOt0&_r=1" target="_blank" rel="noopener noreferrer">TikTok</a>
           </div>
           <div style="margin-top:12px">
-            <a class="btn" href="#" onclick="window.print();return false">Download / Print</a>
+            <a class="btn" href="#" onclick="window.print ();return false">Download / Print CV </a>
           </div>
         </div>
 
         <div class="card">
           <h2>Skill</h2>
           <div class="skills">
-            <span>Jujur,Disiplin & Tanggung jawab</span>
-            <span>Kemampuan Berkomunikasi</span>
-            <span>Kepemimpinan</span>
-            <span>Manajemen Waktu</span>
-            <span>Complaint Handling</span>
-            <span>CRM & Reporting</span>
-            <span>Administrasi Perkantoran</span>
-            <span>Sistem Operasi Microsoft</span>
+            <span>Leadership & Supervisi Lapangan </span>
+            <span>Koordinasi Operasional & Manajemen Area </span>
+            <span>Monitoring & Evaluasi Kinerja Team </span>
+            <span>Negosiasi & Collection Handling </span>
+            <span>Sales & Target Achievement </span>
+            <span>Administrasi & Reporting </span>
+            <span>Problem Solving & Pengambilan Keputusan </span>
+            <span>Komunikasi Efektif Lisan & Tertulis </span>
+            <span>Manajemen Waktu </span>
+            <span>Mampu Bekerja dibawah Tekanan
           </div>
         </div>
 
