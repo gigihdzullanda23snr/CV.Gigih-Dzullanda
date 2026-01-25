@@ -81,7 +81,7 @@
           <p class="meta" style="margin:6px 0 0">Disiplin dalam proses, tegas dalam kepemimpinan, dan bertanggung jawab terhadap hasil </p>
        
             
-            <p class="meta"><div><small>Mataram, NTB, Indonesia </small></div></p>
+            <p class="meta"><div><small>Mataram, NTB, Indonesia. </small></div></p>
         
         </div>
       </div>
