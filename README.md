@@ -79,8 +79,8 @@
           <h1 style="margin:0">Gigih Dzullanda</h1>
           <p style="margin:6px 0 0;font-weight:600">Gigih(Koordinator Lapangan) </p>
           <p class="meta" style="margin:6px 0 0">Disiplin dalam proses, tegas dalam kepemimpinan, dan bertanggung jawab terhadap hasil </p>
-       <p class="meta"><small>Mataram, NTB, Indonesia </small></p>
-       <p 
+       <p class="meta"><div><small>Mataram, NTB, Indonesia </small></div></p>
+        
         </div>
       </div>
     </div>
