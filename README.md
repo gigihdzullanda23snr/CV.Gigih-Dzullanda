@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>CV Online - Gigih Dzullanda</title>
-  <meta name="description" content="CV Online Gigih Dzullanda — (Koordinator Lapangan) dengan pengalaman >5 tahun pada sales, collection, administrasi, dan kepemimpinan tim.">
+  <meta name="description" content="CV Online Gigih Dzullanda — (MANAGER) dengan pengalaman >5 tahun pada Bidang sales, collection, administrasi, dan kepemimpinan tim.">
   <style>
     :root{
       --accent: #2c5364;
@@ -77,7 +77,7 @@
      alt="Foto Gigih Dzullanda" 
      onerror="this.onerror=null;this.src='https://via.placeholder.com/150'"><div style="text-align:left;color:white;">
           <h1 style="margin:0">Gigih Dzullanda</h1>
-          <p style="margin:6px 0 0;font-weight:600">Gigih (Koordinator Lapangan) </p>
+          <p style="margin:6px 0 0;font-weight:600">Gigih (MANAGER) </p>
           <p class="meta" style="margin:6px 0 0">Disiplin dalam proses, tegas dalam kepemimpinan, dan bertanggung jawab terhadap hasil </p>
        
             
@@ -93,7 +93,7 @@
       <section>
         <article class="card" aria-labelledby="tentang">
           <h2 id="tentang">Tentang Saya</h2>
-          <p>Saya Gigih Dzullanda, Saya adalah profesional lapangan dengan pengalaman di bidang Driver, Field Collection, Area Supervisor , Admin Staff , Team Leader dan Koordinator Lapangan,  Terbiasa bekerja dengan target, berinteraksi langsung dengan klien, melakukan negosiasi, serta menyusun laporan kerja secara terstruktur dan akurat.</p>
+          <p>Saya Gigih Dzullanda, Saya adalah profesional lapangan dengan pengalaman di bidang Driver, Field Collection, Area Supervisor , Admin Staff , Team Leader , Koordinator Lapangan,Dan Manager.  Terbiasa bekerja dengan target, berinteraksi langsung dengan klien, melakukan negosiasi, serta menyusun laporan kerja secara terstruktur dan akurat.</p>
           <p>Memiliki pengalaman Sebagai Driver Direksi, menangani debitur bermasalah pada perusahaan pembiayaan, berperan sebagai Admin Kontraktor dengan tanggung jawab administrasi proyek & pengelolaan data, menjadi Team Leader yang memonitoring kinerja tim serta memastikan pekerjaan lapangan berjalan sesuai SOP dan Target, Serta berperan sebagai Koordinator Lapangan yang mengkoordinasikan operasional tim lapangan agar efektif, efisien, dan tepat waktu (Target).</p>
           <p>Saya dikenal sebagai pribadi yang disiplin, komunikatif, adaptif, problem solver, dan mampu bekerja secara mandiri maupun tim. Terbuka terhadap peluang kerja di bidang Operational Staff, Field Officer, Team Leader, Supervisor Lapangan, Collection, dan Project Administration, dengan komitmen memberikan kontribusi nyata bagi pertumbuhan perusahaan.</p>
           <ul style="margin-top:10px">
