@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>CV Online - Gigih Dzullanda</title>
-  <meta name="description" content="CV Online Gigih Dzullanda — (MANAGER) dengan pengalaman >5 tahun pada Bidang sales, collection, administrasi, dan kepemimpinan tim.">
+  <meta name="description" content="CV Online Gigih Dzullanda — ( MANAGER ) dengan pengalaman >5 tahun pada Bidang sales, collection, administrasi, dan kepemimpinan tim.">
   <style>
     :root{
       --accent: #2c5364;
@@ -106,7 +106,7 @@
         <article class="card" aria-labelledby="exp">
           <h2 id="exp">Pengalaman</h2>
           <ul>
-          <li class='item'><strong>Manager</strong> - MIE GACOAN <div class="meta"(2026 - 2026)</div> • Mengelola Operational Outlet, Memimpin dan Mengawasi Tim, Monitoring Penjualan dan Target, Handling Customer Complaint, Admininstrasi dan Reporting, Training dan Development Tim.</li>
+          <li class="item"><strong>Manager</strong> - MIE GACOAN <div class="meta">(2026 - 2026)</div> • Mengelola Operational Outlet, Memimpin dan Mengawasi Tim, Monitoring Penjualan dan Target, Handling Customer Complaint, Admininstrasi dan Reporting, Training dan Development Tim.</li>
           <li class="item"><strong>Koordinator Lapangan</strong> — HEALTHY GO <div class="meta">(2025 — 2026)</div> • Mengkoordinasikan operasional harian produksi dan pengantaran, Mengatur jadwl kerja team Courier,Menjadi penghubung antara tim operasional dan manajemen dalam penyampaian informasi dan laporan, Menangani keluhan dan feedback pelanggan untuk peningkatan kualitas layanan, Memantau stok bahan packingan dan melaporkan kebutuhan pembelian kepada manajemen, Menyusun laporan harian terkait jumlah pesanan, pengiriman, dan kendala operasional, Menyusun laporan kegiatan dan evaluasi kinerja tim kepada manajemen.</li>
             <li class="item"><strong>Team Leader</strong> — PT. TANGGA AGENCY <div class="meta">(2025 — 2025)</div> • Mengkoordinasi dan membimbing tim sales motoris dalam aktivitas penjualan produk (Orang Tua), memastikan pencapaian target harian dan bulanan, melakukan monitoring distribusi serta ketersediaan produk di Depo, dan menjaga hubungan baik dengan pelanggan serta outlet untuk meningkatkan penjualan.</li>
             <li class="item"><strong>Admin</strong> — PT. PARAMA KRIDA PRATAMA <div class="meta">(2024 — 2025)</div> • Mengatur Jadwal pertemuan, Membuat Data, Mengecek Paket Proyek yang tersedia, Membantu urusan administrasi lainya.</li>
